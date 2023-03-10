@@ -1,6 +1,6 @@
-### Experiencia en Agile QA Team:
-#### 🚀QA: Analyst | Jira Software. 
+### 🚀QA Analyst | 🐞Manual Testing
 
+#### Experiencia en Agile QA Team: 
 ##### 👔 Softwares under Test:
  - Web Apps 
  - Web Sites 
