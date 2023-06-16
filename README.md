@@ -19,8 +19,8 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
  
 #### Experiencia en Agile QA Team: 
 ##### 👔 Softwares under Test:
- - Web Apps 
- - Web Sites 
+ * Web Apps 
+ * Web Sites 
 
 🔎Experiencia en Pruebas de UI/System y Pruebas de Integración (API/DB) en Ambiente QA Manual.<br>
 🧪Experiencia en Pruebas In-Sprint (BDD User Stories / Feature Testing )<br>
