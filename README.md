@@ -64,7 +64,7 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 </div>
 </div>
                                                                                                                                            
-   
+<div align="center">   
 <div style="display: inline_block"><br>
   <h4> Tools: <h4>
   <img align="center" alt="Roman-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
@@ -73,9 +73,11 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
   <img align="center" alt="Roman-slack height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
    <img align="center" alt="Roman-Github height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
    </div>
+   </div>
   
 ##
 
+<div align="center">
  <div> 
   <h4>Networks:<h4>
  <a href="https://massoglia.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -83,6 +85,8 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
   <a href="https://www.linkedin.com/in/diego-massoglia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
+</div>
+
 <hr/>
 
 <h2 align="center"> 👇 My Projects 👇</h2> 
