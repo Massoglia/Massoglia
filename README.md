@@ -82,7 +82,7 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
   <h4>Networks:<h4>
  <a href="https://www.linkedin.com/in/diego-massoglia" target="_blank"><img style="width:40px; height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   <a href ="https://twitter.com/Diro_Mass"  target="_blank"><img style="width:40px; height:40px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-  <a href="mailto:massogliad@outlook.com" target="_blank">< ></a> 
+  <a href="mailto:massogliad@outlook.com" target="_blank"><img style="width:40px; height:40px;" src="https://www.svgrepo.com/show/373951/outlook.svg" /></a> 
   
 </div>
 </div>
