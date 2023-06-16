@@ -54,7 +54,7 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 <div align="center">
 <div style="display: inline_block"><br>
   <h4>Skills:<h4>
-  <img align="center" alt="Roman-HTML" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg>
+  <img align="center" alt="Roman-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Roman-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Roman-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="Roman-Ts height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
