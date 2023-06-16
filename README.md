@@ -15,7 +15,8 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 
 * My objectives ? ➡️ I am looking to develop myself in the field of programming to become a very good professional.<br><br>
  
-
+<div align="center">
+ 
 #### Experiencia en Agile QA Team: 
 ##### 👔 Softwares under Test:
  - Web Apps 
@@ -24,6 +25,7 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 🔎Experiencia en Pruebas de UI/System y Pruebas de Integración (API/DB) en Ambiente QA Manual.<br>
 🧪Experiencia en Pruebas In-Sprint (BDD User Stories / Feature Testing )<br>
 🐞Experiencia en Reporte de Bug/Defect Report + Bug Life Cycle + Bug Triage + Root Cause Analysis.
+</div>
 
 ##
 
