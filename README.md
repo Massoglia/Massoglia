@@ -31,25 +31,27 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 <div align="center">
  
 ##### 🚩SCRUM Management Methodologies:
-- Participation in Sprint Planning with estimation of Story Points with scrum poker. 
-- Participation in Sprint dailys to track incidents and blockages. 
-- Participation in Sprint Retrospectives for improvements and feedback on the project. 
+  Participation in Sprint Planning with estimation of Story Points with scrum poker. 
+  Participation in Sprint dailys to track incidents and blockages. 
+  Participation in Sprint Retrospectives for improvements and feedback on the project. 
 ##### 🚀Jira Management for Problem Management:
-- Tasking and Time tracking tracking.
-- Analysis of the functionality of the User Story of the BDD model. 
+  Tasking and Time tracking tracking.
+  Analysis of the functionality of the User Story of the BDD model. 
 ##### 🧪Xray Management for Test Management:
-- Design of Test Suite.
-- Design and derivation of test cases.
-- Execution of test cases and reports.
-- Communication of Bugs and Defects respecting the Bug Life Cycle.
-- Bug Tracking and Bug Triage.
-- Test And Traceability Closure Report.
-- Retesting Bugs.
-- Regression Testing in each Deployment.
+  Design of Test Suite.
+  Design and derivation of test cases.
+  Execution of test cases and reports.
+  Communication of Bugs and Defects respecting the Bug Life Cycle.
+  Bug Tracking and Bug Triage.
+  Test And Traceability Closure Report.
+  Retesting Bugs.
+  Regression Testing in each Deployment.
  
  </div>
 
 ## 
+
+<div align="center">
 <div style="display: inline_block"><br>
   <h4>Skills:<h4>
   <img align="center" alt="Roman-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
@@ -60,6 +62,8 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
    <img align="center" alt="Roman-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
 </div>
+</div>
+                                                                                                                                           
    
 <div style="display: inline_block"><br>
   <h4> Tools: <h4>
