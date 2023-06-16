@@ -28,6 +28,8 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 
 ##
 
+<div align="center">
+ 
 ##### 🚩SCRUM Management Methodologies:
 - Participation in Sprint Planning with estimation of Story Points with scrum poker. 
 - Participation in Sprint dailys to track incidents and blockages. 
@@ -44,6 +46,8 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 - Test And Traceability Closure Report.
 - Retesting Bugs.
 - Regression Testing in each Deployment.
+ 
+ </div>
 
 ## 
 <div style="display: inline_block"><br>
