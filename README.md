@@ -1,4 +1,4 @@
-### 🚀QA Analyst🐞 | Angular Dev 💻
+<h2 align="center"> 🚀QA Analyst🐞 | Angular Dev 💻</h2>
 
 ### hey greetings  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Roman !!
 
@@ -6,7 +6,7 @@
 
 <hr/>
 
-## 🔎 About Me
+<h3 align="center">🔎 About Me </h3> 
 
 Hello, my name is Roman Massoglia but you can call me Diro, I currently live in Portugal. My interest is in software development, but above all... I like to spend hours searching because the code doesn't compile✨✨.<br><br>
 
