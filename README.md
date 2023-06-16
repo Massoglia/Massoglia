@@ -1,12 +1,14 @@
 ### 🚀QA Analyst🐞 | Angular Dev 💻
 
+### hey greetings  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Roman !!
+
 ## 🔎 About Me
 
 Hello, my name is Roman Massoglia but you can call me Diro, I currently live in Portugal. My interest is in software development, but above all... I like to spend hours searching because the code doesn't compile✨✨.<br><br>
 
 * What do I do? ➡️ I am a university student of systems engineering, self-taught in the development of web technologies<br><br>
 
-* My objectives ? ➡️ I am looking to develop myself in the field of programming to become a very good professional.<br><br>*
+* My objectives ? ➡️ I am looking to develop myself in the field of programming to become a very good professional.<br><br>
  
 
 #### Experiencia en Agile QA Team: 
