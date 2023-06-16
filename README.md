@@ -12,6 +12,7 @@ Hello, my name is Roman Massoglia but you can call me Diro, I currently live in 
 
 * What do I do? ➡️ I am a university student of systems engineering, self-taught in the development of web technologies<br><br>
 </div>
+
 * My objectives ? ➡️ I am looking to develop myself in the field of programming to become a very good professional.<br><br>
  
 
