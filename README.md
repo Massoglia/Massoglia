@@ -7,13 +7,13 @@
 <hr/>
 
 <h3 align="center">🔎 About Me </h3> 
-
+<div align="center">
 Hello, my name is Roman Massoglia but you can call me Diro, I currently live in Portugal. My interest is in software development, but above all... I like to spend hours searching because the code doesn't compile✨✨.<br><br>
 
 * What do I do? ➡️ I am a university student of systems engineering, self-taught in the development of web technologies<br><br>
 
 * My objectives ? ➡️ I am looking to develop myself in the field of programming to become a very good professional.<br><br>
- 
+</div> 
 
 #### Experiencia en Agile QA Team: 
 ##### 👔 Softwares under Test:
